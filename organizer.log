@@ -1,0 +1,15 @@
+2026-10-12 16:33:28 - DRY-RUN: C:\Users\DELL\Desktop\CodeNova FileOrganizer\TestFiles\archive.zip -> organized_files\Archives\archive.zip
+2026-10-12 16:33:28 - DRY-RUN: C:\Users\DELL\Desktop\CodeNova FileOrganizer\TestFiles\notes.txt -> organized_files\Documents\notes.txt
+2026-10-12 16:33:28 - DRY-RUN: C:\Users\DELL\Desktop\CodeNova FileOrganizer\TestFiles\photo.jpg -> organized_files\Images\photo.jpg
+2026-10-12 16:33:28 - DRY-RUN: C:\Users\DELL\Desktop\CodeNova FileOrganizer\TestFiles\report.pdf -> organized_files\Documents\report.pdf
+2026-10-12 16:33:28 - DRY-RUN: C:\Users\DELL\Desktop\CodeNova FileOrganizer\TestFiles\script.py -> organized_files\Code\script.py
+2026-10-12 16:33:28 - DRY-RUN: C:\Users\DELL\Desktop\CodeNova FileOrganizer\TestFiles\song.mp3 -> organized_files\Media\song.mp3
+2026-10-12 16:33:28 - DRY-RUN: C:\Users\DELL\Desktop\CodeNova FileOrganizer\TestFiles\unknown.xyz -> organized_files\Others\unknown.xyz
+2026-10-12 16:34:42 - MOVED: C:\Users\DELL\Desktop\CodeNova FileOrganizer\TestFiles\archive.zip -> organized_files\Archives\archive.zip
+2026-10-12 16:34:42 - MOVED: C:\Users\DELL\Desktop\CodeNova FileOrganizer\TestFiles\notes.txt -> organized_files\Documents\notes.txt
+2026-10-12 16:34:42 - MOVED: C:\Users\DELL\Desktop\CodeNova FileOrganizer\TestFiles\photo.jpg -> organized_files\Images\photo.jpg
+2026-10-12 16:34:42 - MOVED: C:\Users\DELL\Desktop\CodeNova FileOrganizer\TestFiles\report.pdf -> organized_files\Documents\report.pdf
+2026-10-12 16:34:42 - MOVED: C:\Users\DELL\Desktop\CodeNova FileOrganizer\TestFiles\script.py -> organized_files\Code\script.py
+2026-10-12 16:34:42 - MOVED: C:\Users\DELL\Desktop\CodeNova FileOrganizer\TestFiles\song.mp3 -> organized_files\Media\song.mp3
+2026-10-12 16:34:42 - MOVED: C:\Users\DELL\Desktop\CodeNova FileOrganizer\TestFiles\unknown.xyz -> organized_files\Others\unknown.xyz
+2026-10-12 16:38:01 - MOVED: C:\Users\DELL\Desktop\CodeNova FileOrganizer\TestFiles\report.pdf -> C:\Users\DELL\Desktop\CodeNova FileOrganizer\organized_files\Documents\report_1.pdf
